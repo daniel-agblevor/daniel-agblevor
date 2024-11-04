@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a data science and cloud enthusiast, skilled in Python
 - **Data Science**: Skilled in statistical analysis and regression models, applying concepts like chi-square testing and Naive Bayes for real-world insights.
 - **Cloud Computing**: AWS Cloud Practitioner certified with hands-on projects in cloud architecture, API integration, and automation.
 - **Machine Learning & NLP**: Experience with Scikit-Learn, TensorFlow, and SpaCy, with a focus on NLP systems for question answering and other applications.
-- **Sales Data Insights**: Currently developing Power BI dashboards to visualize sales performance and trends.
 
 ## 🔧 Tech Stack
 
