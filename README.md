@@ -1,68 +1,67 @@
----
+# 👋 Hi, I'm Daniel — Data Scientist | AI Engineer | Backend Developer
 
-# 👋 Hi, I'm Daniel Yao Agblevor
+Welcome to my GitHub profile. I specialize in building data-driven systems, AI-powered applications, and scalable backend architectures that solve real-world problems.
 
-Welcome to my GitHub. I'm a cross-functional AI, Software, and Data Engineer with a passion for building **production-ready, intelligent systems**. My focus is on architecting and deploying **AI-powered solutions**—with a particular emphasis on healthcare—using modern machine learning, cloud infrastructure, and rigorous data science.
+## 🚀 What I Do
 
----
+As a data scientist with a strong backend engineering focus, I design and deploy production-grade solutions at the intersection of machine learning, automation, and modern web infrastructure. My work is driven by a deep understanding of both the technical and business sides of AI products.
 
-## 🩺 Featured Project: AI Healthcare Assistant
+- 🔍 **Data Science & Predictive Modeling** – Building reliable models that deliver business value, especially in education, healthcare, and customer service.
+- 🧠 **AI-Powered Assistants** – Architecting Retrieval-Augmented Generation (RAG) systems using FAISS and LLMs like Gemini to create intelligent, compliant chatbots.
+- ⚙️ **Backend Development** – Designing robust APIs using Flask and Django, with secure and scalable deployments.
+- 📊 **Visualization & Insights** – Delivering compelling insights using SQL, Tableau, and Python-based analytics workflows.
 
-I've recently developed a **HIPAA-aware AI Healthcare Chatbot**, designed to deliver real-time, compliant medical responses by grounding queries in trusted source documents via **Retrieval-Augmented Generation (RAG)**.
+## 🛠️ Technical Stack
 
-🔹 **Architecture**:
+**Languages & Frameworks**  
+Python · SQL · JavaScript (Vanilla) · Flask · Django
 
-* **Frontend**: Stateless UI deployed on Netlify
-* **Backend**: Flask API with Gemini 1.5 integration
-* **Search**: Vector database powered by FAISS + Sentence-Transformers
-* **Security**: GDPR/HIPAA-conscious design with sessionless architecture
+**Data & AI Tooling**  
+Pandas · scikit-learn · sentence-transformers · FAISS · OpenAI/Gemini APIs · RAG architectures
 
-🔹 **Key Capabilities**:
+**Deployment & Ops**  
+Netlify · Render · GitHub Actions · Jupyter Notebook · REST APIs · GDPR/HIPAA-compliant design principles
 
-* Real-time medical query handling
-* Document-based grounding before fallback to general LLM
-* Scalable, API-first design for multi-platform integration (e.g., WhatsApp Business)
+**Frontend Integration**  
+Clean, functional UIs using HTML/CSS/JS – with AJAX enhancements and responsive design best practices
 
-🔹 **Outcome**:
-A scalable, domain-specific AI assistant that reduces response time, enhances patient support, and ensures trustworthiness in AI-driven healthcare communication.
+## 🧩 Types of Projects I Build
 
----
+- 📈 **Student Enrollment Dashboards** – Portfolio-ready analytics tools built with SQL, Tableau, and Python
+- 💬 **Healthcare AI Assistants** – Stateless, secure, and privacy-compliant LLM-backed chatbots
+- 📱 **WhatsApp AI Integration** – Business automation through intelligent document-grounded agents
+- 🔎 **Contact Info Extractors** – Lightweight Python tools for extracting structured data with regex
 
-## 🚀 Professional Focus
+## 📌 Featured Repositories
 
-* **AI & NLP Engineering**
-  Specializing in retrieval-based NLP systems, chatbot development, semantic search, and generative AI. Tools include SpaCy, HuggingFace, OpenAI/Gemini APIs, and LangChain.
+Here are some projects that represent what I do best:
 
-* **Applied Data Science**
-  Proven experience with statistical modeling, predictive analytics, and dashboarding. Strong grounding in hypothesis testing, regression analysis, and business-centric insight delivery.
+- [AI Health Assistant](https://github.com/daniel-agblevor/AI_Health_Assistant) – A secure, AI-powered health chatbot that uses Retrieval-Augmented Generation (RAG) to deliver intelligent, real-time responses grounded in internal clinical documentation. This project showcases applied Gen AI engineering, including vector search, document embedding, and integration with Gemini 1.5 via Google’s Generative AI SDK.
 
-* **Cloud & MLOps**
-  AWS Cloud Practitioner certified. Skilled in building and deploying AI systems on scalable, containerized cloud infrastructure with Docker, API Gateway, and Lambda.
+- [Student Enrollment Data Analysis](https://github.com/daniel-agblevor/Student_Enrollment_Data_Analysis) – This project focuses on analyzing and preparing student enrollment data from a relational database to generate insights and visualizations in Tableau. The SQL script provided includes queries for exploring the database, preparing data, and categorizing student performance.
 
----
+- [NBA Player Retention Prediction](https://github.com/daniel-agblevor/NBA_Player_Retention_Prediction) – This project focuses on feature engineering and predictive modelling using NBA player data. The goal is to predict whether a player will remain in the league for 5 years (`target_5yrs`) based on various performance metrics.
 
-## 🧰 Technical Toolkit
+- [FruitMart](https://github.com/daniel-agblevor/FruitMart) – A responsive, modular e-commerce web application designed for grocery and fresh produce browsing. Built with Django and Bootstrap, it features a scalable architecture suitable for small-to-mid-scale digital storefronts.
 
-* **Languages**: Python, SQL, Bash
-* **Frameworks**: Flask, FastAPI, Scikit-Learn, TensorFlow, Streamlit
-* **NLP**: SpaCy, HuggingFace Transformers, FAISS, SentenceTransformers
-* **Cloud & DevOps**: AWS (Lambda, S3, API Gateway), Docker, GitHub Actions
-* **Visualization**: Power BI, Seaborn, Matplotlib
+- [Hosting a Static Website](https://github.com/daniel-agblevor/Hosting-a-Static-Website) – Demonstrates how to host a static website using GitHub Pages, providing a simple and free solution for showcasing projects or personal portfolios.
 
----
+## 📊 GitHub Stats
 
-## 📂 Additional Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-agblevor&show_icons=true&theme=default" alt="Daniel's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-agblevor&layout=compact&theme=default" alt="Top languages" height="150" />
+</p>
 
-* **ML Pipeline Automation**: Modular pipeline automating data prep, training, evaluation, and cloud deployment.
-* **BI Dashboards**: Power BI and Python dashboards that drive decisions with clear, interactive visuals.
-* **Cloud Microservices**: RESTful APIs and containerized apps for scalable deployment in production.
+## 🤝 Let's Collaborate
 
----
+I’m currently open to:
+- Freelance projects that need strong backend/data/AI integration
+- Collaboration on AI tools with a meaningful impact
+- Technical consulting roles focused on data strategy and system design
 
-## 🤝 Let’s Connect
-
-If you're innovating in health tech, AI, or data infrastructure—I’d love to connect. I'm open to collaboration, technical discussion, and impactful opportunities.
-
-📫 Reach me on [LinkedIn](https://gh.linkedin.com/in/daniel-agblevor) or email: [mcdanagb@gmail.com](mailto:mcdanagb@gmail.com)
+📬 **Reach out to me**  
+[mcdanagb@gmail.com]
+[[LinkedIn](https://www.linkedin.com/in/daniel-agblevor)]
 
 ---
