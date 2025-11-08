@@ -35,34 +35,16 @@ HTML · CSS · JavaScript · AJAX · Responsive Layouts
 ## 📌 Featured Repositories
 
 * [**AI Health Assistant**](https://github.com/daniel-agblevor/AI_Health_Assistant) – A production-grade AI health chatbot using RAG and Gemini 1.5 for accurate, document-grounded responses. Implements FAISS vector search, embedding pipelines, and compliance-first design.
-
 * [**Student Enrollment Data Analysis**](https://github.com/daniel-agblevor/Student_Enrollment_Data_Analysis) – Data exploration and visualization of student enrollment metrics using SQL and Tableau, with feature engineering for performance insights.
-
 * [**NBA Player Retention Prediction**](https://github.com/daniel-agblevor/NBA_Player_Retention_Prediction) – Predictive modeling project focused on player longevity in the NBA using advanced feature selection and model evaluation techniques.
-
 * [**FruitMart**](https://github.com/daniel-agblevor/FruitMart) – A Django-based e-commerce application with modular structure, category management, and responsive UI.
-
 * [**Hosting a Static Website**](https://github.com/daniel-agblevor/Hosting-a-Static-Website) – A guide and template for deploying static websites using GitHub Pages for personal or project portfolios.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-agblevor&show_icons=true&theme=default" alt="Daniel's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-agblevor&layout=compact&theme=default" alt="Top languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-agblevor&theme=default" alt="GitHub streak stats" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-agblevor&theme=default" alt="Profile summary" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-agblevor&theme=flat&margin-w=5&margin-h=5&column=6" alt="GitHub trophies" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-agblevor&theme=github" alt="Contribution graph" height="200" />
-</p>
+| **Overview**                                                                                                                                                                                                                                                                                                              | **Languages & Activity**                                                                                                                                                                                                                                                                                                                          | **Achievements & Summary**                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github-readme-stats.vercel.app/api?username=daniel-agblevor&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-agblevor&theme=default&hide_border=true" alt="Streak Stats" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-agblevor&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-agblevor&theme=github&hide_border=true" alt="Contribution Graph" height="150" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-agblevor&theme=default&hide_border=true" alt="Profile Summary" height="150" /> <br> <img src="https://github-profile-trophy.vercel.app/?username=daniel-agblevor&theme=flat&margin-w=10&margin-h=10&column=6" alt="Trophies" height="150" /> |
 
 ## 🤝 Let’s Collaborate
 
